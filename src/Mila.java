@@ -8,8 +8,7 @@ public class Mila {
 
         System.out.println(name+" is name.");
         System.out.println("Hello" + name);
-        System.out.println("Hello" + name);
-        System.out.println("Hello" + name);
+        System.out.println("Hello, this is my name:" + name);
     }
 
 }
