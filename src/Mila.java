@@ -4,8 +4,8 @@ public class Mila {
         // write your code here
     }
 
-    public static void greet(){
-        System.out.println("Mila");
+    public static void greet(String name){
+        System.out.println(name);
     }
 
 }
