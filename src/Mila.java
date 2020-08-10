@@ -4,11 +4,9 @@ public class Mila {
         // write your code here
     }
 
-    public static void greet(String name){
-        System.out.println(name+" is name.");
-        System.out.println("Hello, this is my name:" + name);
-        System.out.println("MILA");
 
+    public static void greet(String name, Integer age){
+        System.out.println(name + " is " + age + " old.");
     }
 
 }
