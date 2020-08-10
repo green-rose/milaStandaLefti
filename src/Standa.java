@@ -1,6 +1,7 @@
 public class Standa {
 
-    public void cheer(String language) {
-        System.out.println(language);
+    public void cheer(String language, String name) {
+        System.out.println("Cheer for the " + name);
+        System.out.println(name);
     }
 }
