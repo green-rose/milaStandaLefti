@@ -1,9 +1,11 @@
+import java.sql.SQLOutput;
+
 public class Lefti {
 
 
 
-    public String count(){
+    public void count(String age){
 
-        return "I am 35years old";
+        System.out.println("I am " + age + " years old");
     }
 }
