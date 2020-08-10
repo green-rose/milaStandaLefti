@@ -5,10 +5,10 @@ public class Mila {
     }
 
     public static void greet(String name){
-
         System.out.println(name+" is name.");
-        System.out.println("Hello" + name);
         System.out.println("Hello, this is my name:" + name);
+        System.out.println("MILA");
+
     }
 
 }
