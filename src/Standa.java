@@ -1,7 +1,7 @@
 public class Standa {
 
-    public void cheer() {
-        System.out.println("Roadie");
+    public void cheer(String teamName) {
+        System.out.println(teamName);
     }
 
 }
