@@ -5,7 +5,8 @@ public class Mila {
     }
 
     public static void greet(String name){
-        System.out.println(name);
+
+        System.out.println(name+" is name.");
     }
 
 }
